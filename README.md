@@ -1,6 +1,6 @@
 # Hi there, I'm Michael Dickson 👋
 
-I'm currently a student at the University of North Florida majoring in Computer Science with a minor in Business Management. I've byult a strong foundation in backend logic and system-level programming and am looking 
+I'm currently a student at the University of North Florida majoring in Computer Science with a minor in Business Management. I've built a strong foundation in backend logic and system-level programming and am looking 
 forward to joining the Northeast Florida tech comminity after graduation.
 
 ### 💻 Tech Stack & Skills
